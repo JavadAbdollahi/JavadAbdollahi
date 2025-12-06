@@ -38,15 +38,6 @@ I am currently learning and experimenting with these technologies:
 
 ---
 
-## 📊 My Learning Progress
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavadAbdollahi&show_icons=true&theme=radical&hide_title=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadAbdollahi&layout=compact&theme=radical&hide_title=true" height="150" alt="languages graph" />
-</div>
-
----
-
 ## ☕ Support My Studies
 
 If you find my projects interesting or helpful, you can support my educational journey here:

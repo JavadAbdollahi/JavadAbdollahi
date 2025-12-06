@@ -61,5 +61,6 @@ If you find my projects interesting or helpful, you can support my educational j
 
 <p align="center">
   <i>"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."</i>
-  <i>"(William Thurston's quote)"</i>
+  <br />
+  <i>- William Paul Thurston</i>
 </p>

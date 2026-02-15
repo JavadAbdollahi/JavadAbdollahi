@@ -33,7 +33,7 @@ I am currently learning and experimenting with these technologies:
   <img src="https://img.shields.io/badge/Maple-Maplesoft-DB2828?style=for-the-badge&logo=maple&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://codeforces.com/problemset/problem/2193/A)
 </p>
 
 ---

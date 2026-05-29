@@ -1,5 +1,13 @@
 # Hi, I'm Javad 👋
 
+<p align="left">
+  <a href="mailto:javad.ab82.telegram@gmail.com"><img src="https://img.shields.io/badge/javad.ab82.telegram@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/JavadAbdolahi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/javad-abdolahi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/javadabdollahi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Tehran,%20Iran-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black"/></a>
+</p>
+
 ### 📐 Exploring the World of Mathematics & Algorithms
 
 I am a **Mathematics and Applications** graduate with a deep curiosity about how abstract theories can model the real world. My journey is focused on understanding **Mathematical Modeling**, learning **Graph Theory**, and developing an **Algorithmic Mindset**.
@@ -15,6 +23,7 @@ I enjoy the process of learning and am constantly trying to translate mathematic
 - 💻 I practice writing clean code and improving my problem-solving skills.
 - 📚 My goal is to deepen my understanding of how mathematics works in computer science.
 - 🧪 Check out my **university projects & teaching experiences** [here](https://github.com/javadabdollahi/University-Projects).
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -52,7 +61,7 @@ If you find my projects interesting or helpful, you can support my educational j
 
 > **Network:** Solana (SPL)
 >
-> ` 5F3Z4vo6dF5QhgLer8WvPkYGZaEPEsjcZ4RNq9Zo6Wqn`
+> `5F3Z4vo6dF5QhgLer8WvPkYGZaEPEsjcZ4RNq9Zo6Wqn`
 
 ---
 
